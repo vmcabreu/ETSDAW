@@ -1,5 +1,5 @@
 # Entorno de Desarrolo - 1º DAW
 
-##Índice
+## Índice
 
-###git submodule add https://github.com/vmcabreu/JDK Componente_DIR
+### git submodule add https://github.com/vmcabreu/JDK Componente_DIR
