@@ -2,4 +2,4 @@
 
 ## Índice
 
-### - [<Instalación de JDK>](<https://github.com/vmcabreu/JDK>)
+- ### [Instalación de JDK](<https://github.com/vmcabreu/JDK>)
