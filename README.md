@@ -2,4 +2,4 @@
 
 ## Índice
 
-### git submodule add https://github.com/vmcabreu/JDK Componente_DIR
+### - [<Instalación de JDK>](<https://github.com/vmcabreu/JDK>)
