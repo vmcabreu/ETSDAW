@@ -13,7 +13,8 @@ Cuando la descarga finalice lo ejecutaremos mediante el comando:<br></br>
 
                  
 ## Netbean 12 <a name="id2"></a>
-Como en el caso anterior necesitaremos Java en nuestro SO para realizar la instalación de **Netbean 12**
+Como en el caso anterior necesitaremos Java en nuestro SO para realizar la instalación de **Netbean 12** entonces lo confirmamos mediante `java -version`
+
 
 
 ## Intelij <a name="id3"></a>
