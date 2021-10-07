@@ -6,7 +6,7 @@
   - [Visual Studio Code](#id4)
 
 ## Netbean 8 <a name="id1"></a>
-Para poder realizar la instalación de Netbeans necesitaremos tener instalado Java, algo que hemos realizado en el apartado [JDK](https://github.com/vmcabreu/JDK#id2)
+Para poder realizar la instalación de Netbeans necesitaremos tener instalado Java, algo que hemos realizado en el apartado [JDK](https://github.com/vmcabreu/ETSDAW/tree/main/ETS/JDK#id2)
 Entonces comenzaremos a instalar Netbeans, empezando por descargar el IDE mediante este [enlace](https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html) el cual tendremos que elegir **jdk-8u111-nb-8_2-linux-x64.sh**.
 Cuando la descarga finalice lo ejecutaremos mediante el comando:<br></br>
 `chmod +x jdk-8u111-nb-8_2-linux-x64.sh
@@ -14,6 +14,8 @@ Cuando la descarga finalice lo ejecutaremos mediante el comando:<br></br>
 
                  
 ## Neatbean 12 <a name="id2"></a>
+Como en el caso 
+
 
 ## Intelij <a name="id3"></a>
 
