@@ -2,6 +2,6 @@
 
 ## Índice
  ### Tema 1
-- [Creación de una Máquina Virtual e Instalación de JDK](<https://github.com/vmcabreu/JDK>)
+- [Creación de una Máquina Virtual e Instalación de JDK](ETS/JDK)
 - [Instalación de Maven](<https://github.com/vmcabreu/Maven>)
 - [Instalación de IDES](IDES.md)
