@@ -11,7 +11,7 @@ Para poder realizar la instalación de Netbeans necesitaremos tener instalado Ja
 Entonces comenzaremos a instalar Netbeans, empezando por descargar el IDE mediante este [enlace](https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html) el cual tendremos que elegir **jdk-8u111-nb-8_2-linux-x64.sh**.
 Cuando la descarga finalice lo ejecutaremos mediante el comando:<br></br>
 `chmod +x jdk-8u111-nb-8_2-linux-x64.sh./jdk-8u111-nb-8_2-linux-x64.sh`
-<scr img="Imagenes IDES/IMG (18)">
+<img src="Imagenes Maven\Img2.png">
 
                  
 ## Netbean 12 <a name="id2"></a>
