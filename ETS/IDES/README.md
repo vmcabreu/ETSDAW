@@ -95,7 +95,7 @@ Ya en cuanto la consola nos avise, ya tendriamos el **Eclipse** instalado en nue
 <img src="Imagenes IDES\IMG (20).png">
   </div>
 
-[Volver arriba](#id6)
+[<img src="Imagenes IDES\Flechaarriba.png" width="56" height="56">](#id6) Volver arriba
 
-Volver al índice [DAW](https://github.com/vmcabreu/ETSDAW)
+[<img src="Imagenes IDES\Home.png" width="56" height="56">](https://github.com/vmcabreu/ETSDAW) Volver al índice 
 
