@@ -7,3 +7,4 @@
 - [Instalación de IDES](ETS/IDES)
 ### Tema 2
 - [GIT](ETS/GIT)
+- [Ejercicios Básicos GIT](ETS/GIT/TareaGIt)
